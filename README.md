@@ -29,3 +29,9 @@ Este proyecto implementa un sistema de seguimiento de personas en videos utiliza
 ## Tecnologías Utilizadas
 - Python
 - OpenCV
+## Recursos Utilizados
+Se han empleado documentación y material proporcionado por la asignatura, así como herramientas de desarrollo de software, algunos de estos recursos son:
+- https://medium.com/@MrBam44/object-tracking-with-opencv-and-python-7db8b233fab6
+- https://docs.opencv.org/4.8.0/d4/dc6/tutorial_py_template_matching.html
+- [Chat de OpenAI](https://chat.openai.com)
+
