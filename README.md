@@ -10,12 +10,12 @@
 # Person Tracking Project
 
 ## Descripción
-Este proyecto implementa un sistema de seguimiento de personas en videos utilizando OpenCV en Python. Combina detección con Haar Cascade, seguimiento con `cv2.TrackerKCF_create`, y re-identificación usando Template Matching.
+Este proyecto implementa un sistema de seguimiento de personas en videos utilizando OpenCV en Python. Combina detección con Haar Cascade, seguimiento, y re-identificación usando Template Matching.
 
 ## Uso
 1. **Configuración Inicial**: Cargar el clasificador Haar y configurar los parámetros del video.
 2. **Procesamiento de Video**: Leer el video frame a frame, reduciendo su resolución para mejorar el rendimiento.
-3. **Detección y Seguimiento**: Aplicar Haar Cascade y KCF Tracker en cada frame.
+3. **Detección y Seguimiento**: Aplicar Haar Cascade y trackers en cada frame.
 4. **Re-identificación**: Utiliza un clasificador Haar Cascade para la detección de cuerpos completos
 5. **Visualización**: Dibujar rectángulos y mostrar ID para cada persona detectada.
 
