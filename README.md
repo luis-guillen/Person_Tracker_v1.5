@@ -1,12 +1,3 @@
-# Memoria Práctica 2 FSI – Visión Artificial
-
-### Fundamentos de los Sistemas Inteligentes
-**Curso**: Segundo  
-**Grado**: Grado en Ciencia e Ingeniería de Datos  
-**Escuela**: Escuela de Ingeniería Informática  
-**Universidad**: Universidad de Las Palmas de Gran Canaria (ULPGC)  
-**Autores**: Luis Guillén Servera, José Mataix Pérez
-
 # Person Tracking Project
 
 ## Descripción
